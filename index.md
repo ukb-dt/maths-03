@@ -1,11 +1,11 @@
 
 Read it cleanly this time: it’s **[biomass *or* signal](https://ukb-dt.github.io/nkonte-02/)**, not biomass *per* signal. Existence doesn’t demand efficiency between the two; it demands *commitment to at least one*. Either you pay in matter, or you pay in information—but you pay somewhere.
-
-So the optimized function becomes a constrained existential filter. Something like:
-maximize persistence subject to
-(embodiment ∨ informativeness),
-with propagation speed bounded by *c*,
-and total energy minimized.
+ 
+So the optimized function becomes a constrained existential filter. Something like:      
+maximize persistence subject to          
+(embodiment ∨ informativeness),      
+with propagation speed bounded by *c*,       
+and total energy minimized.     
 
 That logical “or” changes the ontology. You’re no longer smuggling in a trade-off curve; you’re allowing two distinct survival strategies in the same search space. One mode is thick, slow, metabolically expensive—cells, bodies, rituals, institutions. The other is light, fast, abstract—genes, memes, equations, myths. Both are legitimate eigenmodes of the same underlying constraint system.
 
