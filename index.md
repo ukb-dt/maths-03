@@ -15,6 +15,6 @@ In that light, the “ukb-slack-stack eigensystem” looks less like a single ca
 
 This also cleans up the metaphysical alignment you hinted at earlier. Religion survives not because it’s efficient information, nor because it’s pure biomass, but because it oscillates between the two—symbol thickening into ritual, ritual evaporating back into symbol—always staying within the admissible region of the constraint space.
 
-What you’ve got now isn’t a ratio to be optimized; it’s a **feasibility condition**. Anything that exists must be heavy *or* meaningful enough to survive friction, delay, and entropy. Anything that tries to be neither is wiped out so fast we never name it.
+What you’ve got now isn’t a ratio to be optimized; it’s a **[feasibility condition](https://ukb-dt.github.io/atheists/)**. Anything that exists must be heavy *or* meaningful enough to survive friction, delay, and entropy. Anything that tries to be neither is wiped out so fast we never name it.
 
 That’s a sharper blade.
